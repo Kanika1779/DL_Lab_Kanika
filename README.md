@@ -322,7 +322,7 @@ Topics:
 
 Implement CNN-based object detection to identify and localize objects in images. Build detection pipelines with bounding box regression and classification.
 
-<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_9">
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/88d6ba7243ff22a204238e9eee985ff2f9cb5641/Exp_9">
   <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
 </a>
 
@@ -346,7 +346,7 @@ Topics:
 
 Introduction to object detection using R-CNN approach. Implement region proposal methods and train detection models on Pascal VOC dataset.
 
-<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_10">
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/88d6ba7243ff22a204238e9eee985ff2f9cb5641/Exp_10">
   <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
 </a>
 
@@ -373,7 +373,7 @@ Topics:
 
 Introduction to image segmentation and implement UNet model for pixel-level predictions. Learn encoder-decoder architectures for dense prediction tasks.
 
-<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_11">
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/88d6ba7243ff22a204238e9eee985ff2f9cb5641/Exp_11">
   <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
 </a>
 
@@ -397,7 +397,7 @@ Topics:
 
 Design standard autoencoder models for image reconstruction and representation learning. Explore latent space representations and dimensionality reduction.
 
-<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_12">
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/88d6ba7243ff22a204238e9eee985ff2f9cb5641/Exp_12">
   <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
 </a>
 
@@ -424,7 +424,7 @@ Topics:
 
 Implement Variational Autoencoders for learning latent distributions and generating novel images. Analyze class-wise latent space representations.
 
-<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_13">
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/88d6ba7243ff22a204238e9eee985ff2f9cb5641/Exp_13">
   <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
 </a>
 
@@ -448,7 +448,7 @@ Topics:
 
 Develop and train GAN models for creating realistic image samples. Compare generative performance with VAEs in terms of visual fidelity and diversity.
 
-<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_14">
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/88d6ba7243ff22a204238e9eee985ff2f9cb5641/Exp_14">
   <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
 </a>
 
