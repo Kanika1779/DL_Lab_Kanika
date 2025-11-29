@@ -67,6 +67,36 @@ This repository contains hands-on implementations of deep learning concepts, cov
 ┃ ┣ 📓 experiment.ipynb
 ┃ ┣ 📂 datasets
 ┃ ┗ 📂 images
+┣ 📂 Exp_9
+┃ ┣ 📓 convolutional-neural-network-cnn-tutorial.ipynb
+┃ ┣ 📂 test
+┃ ┗ 📂 train
+┣ 📂 Exp_10
+┃ ┣ 📓 Exp10_FasterRCNN_ObjectDetection.ipynb
+┃ ┣ 📂 Pascal_voc
+┃ ┣ 📄 detection_results.png
+┃ ┗ 📄 sample_annotations.png
+┣ 📂 Exp_11
+┃ ┣ 📓 unet_segmentation.ipynb
+┃ ┗ 📄 best_unet_model.pth
+┣ 📂 Exp_12
+┃ ┣ 📓 Pre_process.ipynb
+┃ ┣ 📄 model.py
+┃ ┣ 📄 autoencoder_celeba.pth
+┃ ┣ 📄 latent_space.png
+┃ ┣ 📄 reconstruction_results.png
+┃ ┗ 📄 training_loss.png
+┣ 📂 Exp_13
+┃ ┣ 📄 model.py
+┃ ┣ 📄 vae_fashion_mnist.pth
+┃ ┣ 📄 vae_generated_samples.png
+┃ ┣ 📄 vae_interpolation.png
+┃ ┣ 📄 vae_latent_space.png
+┃ ┣ 📄 vae_manifold.png
+┃ ┣ 📄 vae_reconstruction.png
+┃ ┗ 📄 vae_training_loss.png
+┣ 📂 Exp_14
+┃ ┗ 📄 model.py
 ┗ 📄 README.md
 ```
 
@@ -270,6 +300,159 @@ Implement CNN with data augmentation strategies to improve model generalization.
 </a>
 
 <a href="https://drive.google.com/drive/folders/187zwc3pvmfxq8_hoBUmVcsxa5u6CLb1W?usp=sharing">
+  <img src="https://img.shields.io/badge/Dataset-yellow?style=for-the-badge" alt="Dataset">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎯 Experiment 9
+**CNN Object Detection**
+
+```
+Topics:
+├── Object Detection Fundamentals
+├── CNN Architecture for Detection
+├── Bounding Box Prediction
+└── Training & Evaluation
+```
+
+Implement CNN-based object detection to identify and localize objects in images. Build detection pipelines with bounding box regression and classification.
+
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_9">
+  <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
+</a>
+
+<a href="https://drive.google.com/drive/folders/1R8mIZcJX-_jeP7YV4Xs2zZ0ddt9RyVC9?usp=drive_link">
+  <img src="https://img.shields.io/badge/Dataset-yellow?style=for-the-badge" alt="Dataset">
+</a>
+
+</td>
+<td width="50%">
+
+### 🔍 Experiment 10
+**Object Detection with R-CNN**
+
+```
+Topics:
+├── Region-based CNN (R-CNN)
+├── Region Proposal Networks
+├── Faster R-CNN Implementation
+└── Pascal VOC Dataset
+```
+
+Introduction to object detection using R-CNN approach. Implement region proposal methods and train detection models on Pascal VOC dataset.
+
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_10">
+  <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
+</a>
+
+<a href="https://drive.google.com/drive/folders/1zmgp4-peg9sQK2Q7wGzeHcNsTN07gm4k?usp=drive_link">
+  <img src="https://img.shields.io/badge/Dataset-yellow?style=for-the-badge" alt="Dataset">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🖼️ Experiment 11
+**Image Segmentation with UNet**
+
+```
+Topics:
+├── Semantic Segmentation
+├── UNet Architecture
+├── Encoder-Decoder Networks
+└── Pixel-wise Classification
+```
+
+Introduction to image segmentation and implement UNet model for pixel-level predictions. Learn encoder-decoder architectures for dense prediction tasks.
+
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_11">
+  <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
+</a>
+
+<a href="https://drive.google.com/drive/folders/1njSk_TL_cn92O3GWp3DJTec1iL0895jq?usp=drive_link">
+  <img src="https://img.shields.io/badge/Dataset-yellow?style=for-the-badge" alt="Dataset">
+</a>
+
+</td>
+<td width="50%">
+
+### 🔄 Experiment 12
+**Autoencoders for Image Reconstruction**
+
+```
+Topics:
+├── Autoencoder Architecture
+├── Dimensionality Reduction
+├── Feature Compression
+└── Image Reconstruction
+```
+
+Design standard autoencoder models for image reconstruction and representation learning. Explore latent space representations and dimensionality reduction.
+
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_12">
+  <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
+</a>
+
+<a href="https://drive.google.com/drive/folders/1kcpny2rh7vkP4fwWy8o0vVI2azkjnVvG?usp=drive_link">
+  <img src="https://img.shields.io/badge/Dataset-yellow?style=for-the-badge" alt="Dataset">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Experiment 13
+**Variational Autoencoders (VAEs)**
+
+```
+Topics:
+├── Probabilistic Modeling
+├── Latent Space Distribution
+├── VAE Architecture
+└── Novel Image Generation
+```
+
+Implement Variational Autoencoders for learning latent distributions and generating novel images. Analyze class-wise latent space representations.
+
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_13">
+  <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
+</a>
+
+<a href="https://drive.google.com/drive/folders/1lxk1bofSxTsWDPnpv5aKTqmpf9FTHfK0?usp=drive_link">
+  <img src="https://img.shields.io/badge/Dataset-yellow?style=for-the-badge" alt="Dataset">
+</a>
+
+</td>
+<td width="50%">
+
+### 🎨 Experiment 14
+**Generative Adversarial Networks (GANs)**
+
+```
+Topics:
+├── GAN Architecture
+├── Generator & Discriminator
+├── Adversarial Training
+└── Synthetic Image Generation
+```
+
+Develop and train GAN models for creating realistic image samples. Compare generative performance with VAEs in terms of visual fidelity and diversity.
+
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_14">
+  <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
+</a>
+
+<a href="https://drive.google.com/drive/folders/1-6Hs4-ehERc-YYN8pUHkXe0xqG09RxvX?usp=drive_link">
   <img src="https://img.shields.io/badge/Dataset-yellow?style=for-the-badge" alt="Dataset">
 </a>
 
