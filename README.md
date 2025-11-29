@@ -100,7 +100,7 @@ This repository contains hands-on implementations of deep learning concepts, cov
 ┗ 📄 README.md
 ```
 
-> Each experiment folder is self-contained with its notebook, datasets, and generated visualizations.
+> **Note:** Each experiment contains Python notebooks or scripts along with generated visualizations. While some experiments include datasets locally, others provide Google Drive links to their respective dataset folders for easy access and download.
 
 ---
 
